@@ -1,0 +1,25 @@
+{
+  "output": "accident2020_2025_en.csv",
+  "rows": 133375,
+  "columns": 38,
+  "years": [
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "blank_accident_year_rows_preserved": 0,
+  "source_rows": {
+    "accident2020_en.csv": 21239,
+    "accident2021_en.csv": 20062,
+    "accident2022_en.csv": 20566,
+    "accident2023_en.csv": 23841,
+    "accident2024_en.csv": 23952,
+    "accident2025_en.csv": 23715
+  },
+  "sha256": "754ce62f19b25abaea28c406dd8c157dfd7a8749e57669227a9e24b5286a4091",
+  "bytes": 38760403,
+  "validated": true
+}

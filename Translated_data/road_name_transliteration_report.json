@@ -1,0 +1,65 @@
+[
+  {
+    "file": "accident2019_en.csv",
+    "rows": 40246,
+    "road_name_rows_changed": 0,
+    "before_sha256": "1e19dadad7863d155278ee8c6049b51f435254962589495d1574038efb878ca4",
+    "after_sha256": "1e19dadad7863d155278ee8c6049b51f435254962589495d1574038efb878ca4",
+    "bytes": 5134070,
+    "validated": true
+  },
+  {
+    "file": "accident2020_en.csv",
+    "rows": 21239,
+    "road_name_rows_changed": 21204,
+    "before_sha256": "67c52b1bd040fff3d4b3601ac80b0860a29d5a6d88afe7bf261764c35ae9a8fb",
+    "after_sha256": "d740d7d05f2e3e9a23fbdd0ba7f037bc58a80891cbf756cce2097c3bb3ec9e3a",
+    "bytes": 6273051,
+    "validated": true
+  },
+  {
+    "file": "accident2021_en.csv",
+    "rows": 20062,
+    "road_name_rows_changed": 19976,
+    "before_sha256": "5d5299441fd918b4cbcf2a66c68458c886dd226e25d0454c77ee40a9c4d7144e",
+    "after_sha256": "a756f1937f58fc9241181fcfb8f2185084019761fe5a9365d49270ee372bd806",
+    "bytes": 5915656,
+    "validated": true
+  },
+  {
+    "file": "accident2022_en.csv",
+    "rows": 20566,
+    "road_name_rows_changed": 19027,
+    "before_sha256": "6c499366355527d5b4758258ad4262f6cf6f852e0935f23f92ab7cf6723bcf92",
+    "after_sha256": "bee7f8cb1604af3d70be6a54e877da42873e06b27cadd848e0674ada3415dbae",
+    "bytes": 6058116,
+    "validated": true
+  },
+  {
+    "file": "accident2023_en.csv",
+    "rows": 23841,
+    "road_name_rows_changed": 22040,
+    "before_sha256": "5463630603f45bc70068a2d2183a8754e523ff908a6b809357386fbf08e13e33",
+    "after_sha256": "25c417e18d02c81f40abb916e420b5cec2b1edc1841a62adda2bc619cb95becc",
+    "bytes": 7091203,
+    "validated": true
+  },
+  {
+    "file": "accident2024_en.csv",
+    "rows": 23952,
+    "road_name_rows_changed": 5413,
+    "before_sha256": "f3640dc2a58a076b62043aac33ba52ce67d7f3498c5a2e5103a0aa7bbbc1a748",
+    "after_sha256": "272c4b0c7ec446704a2c94b0c0d2b24b65cf26cdd177f341a4b365d66f6eecd9",
+    "bytes": 6641030,
+    "validated": true
+  },
+  {
+    "file": "accident2025_en.csv",
+    "rows": 23715,
+    "road_name_rows_changed": 23510,
+    "before_sha256": "e64850bb2151060d298be4ad6ea992954d0648b80ee57c520ea202d4bd431bdb",
+    "after_sha256": "67da4045d31493e17207831d120f05cfa2df9253453ccd4f2cdfcdfe30fa82ba",
+    "bytes": 6784132,
+    "validated": true
+  }
+]

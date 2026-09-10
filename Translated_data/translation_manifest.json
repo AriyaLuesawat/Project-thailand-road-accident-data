@@ -1,0 +1,70 @@
+{
+  "scope": "Thailand road-accident datasets, 2019–2025",
+  "encoding": "UTF-8 with BOM",
+  "policy": "English headers and standardized categorical values translated. Proper road names and route codes retained verbatim to protect official identifiers. Dates, times, IDs, numeric values, coordinates, row order, and source files are unchanged.",
+  "files": [
+    {
+      "year": 2019,
+      "rows": 40246,
+      "columns": 19,
+      "source_sha256": "6c91ec98dc101ed6f9bf6899242db2d256e3a4a971d540033b14985838060988",
+      "output_sha256": "34eecd7f855d0c6573f473a2538c19ef1c409a130d1d78d23206b036e150da5a",
+      "output_bytes": 5814257,
+      "validated": true
+    },
+    {
+      "year": 2020,
+      "rows": 21239,
+      "columns": 38,
+      "source_sha256": "b6511b50ae27eda5414267f366d39016948ea95290e5274e41823441f3546d3c",
+      "output_sha256": "67c52b1bd040fff3d4b3601ac80b0860a29d5a6d88afe7bf261764c35ae9a8fb",
+      "output_bytes": 7013254,
+      "validated": true
+    },
+    {
+      "year": 2021,
+      "rows": 20062,
+      "columns": 38,
+      "source_sha256": "044f8ae0a918ec25139bef24257fe274fd17d9bfab2512c0780a7a4bbf5d50f0",
+      "output_sha256": "5d5299441fd918b4cbcf2a66c68458c886dd226e25d0454c77ee40a9c4d7144e",
+      "output_bytes": 6605720,
+      "validated": true
+    },
+    {
+      "year": 2022,
+      "rows": 20566,
+      "columns": 38,
+      "source_sha256": "6f7c543a302906925e32fbf6b8da5d2b1920266489ae1c978fd9887d63c4698e",
+      "output_sha256": "6c499366355527d5b4758258ad4262f6cf6f852e0935f23f92ab7cf6723bcf92",
+      "output_bytes": 6715649,
+      "validated": true
+    },
+    {
+      "year": 2023,
+      "rows": 23841,
+      "columns": 38,
+      "source_sha256": "4d6dbfa4b8e1f4dd476d81062a01c10a858b7acd174fef20cb18f29ad2fbbd55",
+      "output_sha256": "5463630603f45bc70068a2d2183a8754e523ff908a6b809357386fbf08e13e33",
+      "output_bytes": 7890642,
+      "validated": true
+    },
+    {
+      "year": 2024,
+      "rows": 23952,
+      "columns": 38,
+      "source_sha256": "2ca1e832a4fa8d29ef6adfe52623a9b447a7f0b12e61e6e7e795a1b6e4be4a10",
+      "output_sha256": "f3640dc2a58a076b62043aac33ba52ce67d7f3498c5a2e5103a0aa7bbbc1a748",
+      "output_bytes": 6843398,
+      "validated": true
+    },
+    {
+      "year": 2025,
+      "rows": 23715,
+      "columns": 38,
+      "source_sha256": "b163fa91170fa7df76b8d71b4eb629ff7ca4ef220bea6c3660e244fbe7e5616d",
+      "output_sha256": "e64850bb2151060d298be4ad6ea992954d0648b80ee57c520ea202d4bd431bdb",
+      "output_bytes": 7579562,
+      "validated": true
+    }
+  ]
+}
