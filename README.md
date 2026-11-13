@@ -2,6 +2,8 @@
 
 Thai road-accident records for 2019–2025, translated into English, with the scripts that produce and check the translation. The records come from the Department of Highways, the Department of Rural Roads, and the Expressway Authority of Thailand.
 
+**Dashboard:** <https://ariyaluesawat.github.io/Project-thailand-road-accident-data/Final%20Work/final.html> — Thailand road safety dashboard (maps, KPIs, and charts) built from `Final Work/Group 4.xlsx`.
+
 The translation changes only the language. Row order, IDs, route codes, dates, times, numbers, and coordinates are the same as in the Thai source files.
 
 ## What's in the data
@@ -54,7 +56,7 @@ raw/                 Thai source CSVs, one per year (2019–2025)
 Translated_data/     English CSVs, combined files, and JSON validation reports
 Clean_data/          accident_2020-2025.xlsx — cleaned 2020–2025 workbook
 Final Work/          Group 4.xlsx (cleaned data, data dictionary, KPI guide, work log)
-                     final.html — road-safety dashboard built from Group 4.xlsx
+                     final.html — road-safety dashboard (live link above)
 ```
 
 ## Reproducing the translation
